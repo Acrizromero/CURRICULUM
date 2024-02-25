@@ -127,7 +127,7 @@
     <a  href="https://www.linkedin.com/in/acriz-romero-rodriguez-4724a5238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEG9KgDrFQtidYS0pqXlifg%3D%3D"><img class="iconsfooter " src="img/linkedin (1).png" alt="imagen de linkedin "></a>
     </footer>
 </html>
-
+<style>
 
 *{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
@@ -203,3 +203,4 @@ footer {
     margin-left: 4em;
     }
 **/
+</style>
