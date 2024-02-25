@@ -127,3 +127,79 @@
     <a  href="https://www.linkedin.com/in/acriz-romero-rodriguez-4724a5238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEG9KgDrFQtidYS0pqXlifg%3D%3D"><img class="iconsfooter " src="img/linkedin (1).png" alt="imagen de linkedin "></a>
     </footer>
 </html>
+
+
+*{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+header{
+    margin-top: 1.5em;
+}
+
+
+.nav {
+    
+    background-color: plum;
+    color: white;
+    border-radius: 0.3em 0;
+    margin: 0.3em;
+    padding: 0.1em;
+    text-decoration: none;
+    align-self: center;
+    margin-top: 0.2em;
+
+}
+
+.fotoperfil{
+    border-radius: 1em 0;
+    
+
+}
+body{ 
+    background-color: lavenderblush;
+color: black;
+margin: 2em;
+text-align: justify;
+
+}
+
+.presentacion {
+    
+    color: plum;
+
+    
+    text-align: center;
+
+}
+h2, h3, h4 { 
+    color: purple
+}
+
+.iconsfooter {
+    margin: 0.5em 1em;
+    width: 2em;
+    align-items: center;
+}
+
+.certificados{
+    width:10em;
+}
+footer {
+    
+    text-align: justify;
+    color: beige;
+    margin-top: em;
+    left: 0%;
+    width: 100%;
+    height: auto; }
+
+/**.certificados:hover {
+    display: flexbox;
+    transform: scale(300%);
+    overflow:auto;
+    text-align: center;
+    align-content: center;
+    translate: 100%;
+    transition: 0.6s;
+    margin-left: 4em;
+    }
+**/
