@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +19,7 @@
    
     <div Class="presentacion">
     <h2>Curriculum Vitae Acriz Romero</h2>
+    <span>https://github.com/Acrizromero/CURRICULUM/blob/main/Curriculum-vitae/Ejercicio%20CV/img/Consultas_Basicas_SQL.jpg</span> <span></span>
     <img  class="fotoperfil" width="150em" src="img/perfil.jpg" alt="Foto del perfil">
     
 </div>
